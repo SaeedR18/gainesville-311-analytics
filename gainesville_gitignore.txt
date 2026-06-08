@@ -1,0 +1,16 @@
+# R
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Full dataset (too large for GitHub — use sample in /data/)
+311_Service_Requests_*.csv
+
+# API keys
+.Renviron
+.env
+
+# OS
+.DS_Store
+Thumbs.db
